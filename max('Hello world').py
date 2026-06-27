@@ -1,0 +1,2 @@
+max('Helloworld')
+min('Helloworld')
